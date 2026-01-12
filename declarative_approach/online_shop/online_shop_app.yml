@@ -10,7 +10,7 @@ spec:
     targetRevision: main
     path: declarative_approach/online_shop
   destination:
-    sname: in-cluster
+    name: in-cluster
     namespace: default
   syncPolicy:
     automated:
